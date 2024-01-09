@@ -58,11 +58,11 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
    - English language.Remove Rare Words: Eliminate words that appear infrequently in the dataset, as they may not contribute significantly to the analysis.
    -  Lemmatization: Convert words to their base or root form (lemmas) to reduce inflected words to a common base form. For example, "running," "runs," and "ran" will all be transformed to "run."
 
-4. **Text Transformations"
+4. **Text Transformations:**
    - Bag-of-Words (BOW): Similar to TF, but it also ignores the frequency and considers only whether a word appears or not (binary representation).
      ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/be49cca1-5a4e-4219-995f-0089ce11fa06)
      
-    - TF (Term Frequency): Convert the text data into a bag-of-words representation, where each document is represented as a vector of word frequencies in the corpus.
+    - Term Frequency-Inverse Document Frequency (TF-IDF): Convert the text data into a bag-of-words representation, where each document is represented as a vector of word frequencies in the corpus.
      ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/28ba8211-3901-4b57-9889-748c900f7980)
 
    - LDA (Latent Dirichlet Allocation): Perform topic modeling to extract latent topics from the text data. Each document is represented as a mixture of topics.
