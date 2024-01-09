@@ -1,5 +1,5 @@
 # **Sentiment Analysis NLP**
-Using NLP and a smart chatbot, this project gauges customer sentiments online, offering customization and real-time feedback. Employing TF-BOW-LDA and ML models on (train.csv dataset)[[train_data.csv](https://github.com/RimTouny/Sentiment-Analysis-NLP/files/13878717/train_data.csv)], it empowers e-commerce decisions, culminating in an NLP course at uOttawa in 2023.
+Using NLP, this project gauges customer sentiments online, offering customization and real-time feedback. Employing TF-BOW-LDA and ML models on (train.csv dataset)[[train_data.csv](https://github.com/RimTouny/Sentiment-Analysis-NLP/files/13878717/train_data.csv)], it empowers e-commerce decisions, culminating in an NLP course at uOttawa in 2023.
 
 
 - Required libraries: scikit-learn, pandas, matplotlib.
@@ -108,7 +108,8 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
    ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/36ab4c20-eff9-43c8-94cf-e6e562a5c850)
 
 8. **Champion Model**
-   ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/8e038b8c-ea10-45d8-bc83-823a80b463b9)
+
+    ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/8e038b8c-ea10-45d8-bc83-823a80b463b9)
 
 
 
