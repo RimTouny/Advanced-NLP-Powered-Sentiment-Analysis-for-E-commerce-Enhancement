@@ -65,11 +65,11 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
     - Term Frequency-Inverse Document Frequency (TF-IDF): Convert the text data into a bag-of-words representation, where each document is represented as a vector of word frequencies in the corpus.
      ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/28ba8211-3901-4b57-9889-748c900f7980)
 
-   - LDA (Latent Dirichlet Allocation): Perform topic modeling to extract latent topics from the text data. Each document is represented as a mixture of topics.
+   - Latent Dirichlet Allocation (LDA): Perform topic modeling to extract latent topics from the text data. Each document is represented as a mixture of topics.
      ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/57f35aeb-47a1-4cf6-9dd0-fceac1ece501)
 
 5. **Modeling**
-   - Classfication (Random Forest , SVM , Logistic Regression , Gaussian Navie Bayes"
+   - Classfication (Random Forest , SVM , Logistic Regression , Gaussian Navie Bayes)
      + BOW Technique
        ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/a248d331-b918-4cc0-a1b5-5c332126004c)
        ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/6aedb3ef-9979-40bb-a83e-940f55cea2ab)
@@ -78,13 +78,12 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
        ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/73a3f3d0-9f6d-49ff-b5f3-3340076963cb)
        ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/32241660-3dce-4501-b039-8d0459ebea17)
 
-       
      + LDA Technique
         ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/567637f0-7000-4408-a8e8-193b54242d9c)
         ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/d4bccc55-cb6c-4aef-acdd-32481ff5c989)
 
 
-   - Clustering ( K-Means , Hierarchica)
+   - Clustering ( K-Means , Hierarchical)
      + BOW Technique
        - Silhouette Score (K-Means): 81.55401438608376
        - Silhouette Score (Hierarchical) : 17.925024032592773
@@ -94,7 +93,7 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
      + TF-IDF Technique
        - Silhouette Score (K-Means): 0.7683612431807604
        - Silhouette Score (Hierarchical) : 17.966507375240326
-       - 
+         
        ![image](https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/0db92a80-8c87-402b-9e59-1add9d408174)
 
      + LDA Technique
