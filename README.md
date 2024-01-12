@@ -103,24 +103,28 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
 
    - Clustering ( K-Means , Hierarchical)
      + BOW Technique
-       - Silhouette Score (K-Means): 81.55401438608376
-       - Silhouette Score (Hierarchical) : 17.925024032592773
-
+       ```python
+           Silhouette Score (K-Means): 81.55401438608376
+           Silhouette Score (Hierarchical) : 17.925024032592773
+       ```
         <p align="center">
           <img src="https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/d650e0f7-2f2f-454b-96bc-1526257e9023"/>
       </p>
   
      + TF-IDF Technique
-       - Silhouette Score (K-Means): 0.7683612431807604
-       - Silhouette Score (Hierarchical) : 17.966507375240326
-         
+       ```python
+           Silhouette Score (K-Means): 0.7683612431807604
+           Silhouette Score (Hierarchical) : 17.966507375240326
+       ```
         <p align="center">
           <img src="https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/0db92a80-8c87-402b-9e59-1add9d408174"/>
       </p>
 
      + LDA Technique
-       - Silhouette Score (K-Means): 81.55401438608376
-       - Silhouette Score (Hierarchical) 16.194509
+       ```python
+           Silhouette Score (K-Means): 81.55401438608376
+            Silhouette Score (Hierarchical) 16.194509
+       ```
         <p align="center">
           <img src="https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/0f654069-0e71-44d9-81de-a398a3dddace" />
       </p>
@@ -137,7 +141,7 @@ Perform supervised sentiment analysis to categorize user sentiments into three c
 8. **Champion Model**
 
    <p align="center">
-          <img src="https://github.com/RimTouny/Sentiment-Analysis-NLP/assets/48333870/8e038b8c-ea10-45d8-bc83-823a80b463b9" />
+          <img src="https://github.com/RimTouny/Advanced-NLP-Powered-Sentiment-Analysis-for-E-commerce-Enhancement/assets/48333870/d48aae73-7d7b-4de5-b8ca-1ad99945bea0" />
       </p>
 
 
